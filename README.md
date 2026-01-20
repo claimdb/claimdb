@@ -17,7 +17,7 @@ We are currently migrating the codebase to this repository. In the meantime, ple
 
 ## Overview
 
-Given a claim (+extra info) and a database, the task is to classify each claim as **ENTAILED**, **CONTRADICTED**, or **NOT ENOUGH INFO** based on the evidence of the database. There are no restrictions on how to interact with the database.
+Given a **claim** (+extra info) and a **database**, the task is to classify each claim as `ENTAILED`, `CONTRADICTED`, or `NOT ENOUGH INFO` based on the evidence of the database. There are no restrictions on how to interact with the database.
 
 ## Citation
 
