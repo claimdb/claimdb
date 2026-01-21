@@ -1,0 +1,24 @@
+[project]
+name="claimdb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python=">=3.10"
+dependencies = [
+    "chardet>=5.2.0",
+    "google-adk>=1.22.1",
+    "google-genai>=1.60.0",
+    "matplotlib>=3.10.8",
+    "nbdev>=2.4.14",
+    "openai>=2.15.0",
+    "openai-agents[litellm]>=0.6.9",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.5",
+    "pydantic-ai>=1.31.0",
+    "python-dotenv>=1.2.1",
+    "seaborn>=0.13.2",
+    "sqlglot>=28.6.0",
+    "sqlparse>=0.5.5",
+    "toolbox-core>=0.5.7",
+    "tqdm>=4.67.1",
+]

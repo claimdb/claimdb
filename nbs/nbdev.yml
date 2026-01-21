@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "claimdb"
+  site-url: "https://claimdb.github.io/claimdb"
+  description: "A Fact Verification Benchmark over Large Structured Data"
+  repo-branch: main
+  repo-url: "https://github.com/claimdb/claimdb"
