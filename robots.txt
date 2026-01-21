@@ -1,0 +1,1 @@
+Sitemap: https://claimdb.github.io/claimdb/sitemap.xml
