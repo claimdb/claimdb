@@ -1,0 +1,8 @@
+filter-data/embeddings/*.jsonl filter=lfs diff=lfs merge=lfs -text
+filter-data/judges/*.jsonl filter=lfs diff=lfs merge=lfs -text
+experiments/logs/* filter=lfs diff=lfs merge=lfs -text
+experiments/logs/*jsonl filter=lfs diff=lfs merge=lfs -text
+experiments/*jsonl filter=lfs diff=lfs merge=lfs -text
+experiments/public/*jsonl filter=lfs diff=lfs merge=lfs -text
+experiments/private/*jsonl filter=lfs diff=lfs merge=lfs -text
+#original-data/BIRD/databases/*/*sqlite filter=lfs diff=lfs merge=lfs -text
