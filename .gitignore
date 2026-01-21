@@ -152,7 +152,7 @@ checklink/cookies.txt
 
 # Bird data
 original-data/BIRD/databases/
-original-data/BIRD/organized_dbs/
+original-data/BIRD/databases/**
 
 # private
 private_claims.py
