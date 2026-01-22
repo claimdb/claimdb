@@ -19,6 +19,7 @@ dependencies = [
     "pydantic>=2.12.5",
     "pydantic-ai>=1.44.0",
     "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "sqlglot>=28.6.0",
     "sqlparse>=0.5.5",

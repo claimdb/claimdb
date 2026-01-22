@@ -79,4 +79,6 @@ d = { 'settings': { 'branch': 'main',
                                         'claimdb.transformation.claim_collection_json_to_parsed': ( 'transformation.html#claim_collection_json_to_parsed',
                                                                                                     'claimdb/transformation.py'),
                                         'claimdb.transformation.construct_payload': ( 'transformation.html#construct_payload',
-                                                                                      'claimdb/transformation.py')}}}
+                                                                                      'claimdb/transformation.py')},
+            'claimdb.visualize': {'claimdb.visualize.load_df': ('visualize.html#load_df', 'claimdb/visualize.py')},
+            'claimdb.visualize_private': {'claimdb.visualize_private.load_df': ('visualize.html#load_df', 'claimdb/visualize_private.py')}}}
