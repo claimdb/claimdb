@@ -5,6 +5,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](http://arxiv.org/abs/2601.14698)
 [![Website](https://img.shields.io/badge/Website-ClaimDB-blue.svg)](https://claimdb.github.io/)
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-ClaimDB-yellow.svg)](https://huggingface.co/datasets/michaeltheologitis/claimdb)
 [![License: CC BY-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
