@@ -1,12 +1,15 @@
+[build-system]
+requires = ["setuptools>=64.0"]
+build-backend = "setuptools.build_meta"
+
 [project]
-name="claimdb"
-version = "0.1.0"
-description = "Add your description here"
+name = "claimdb"
+version = "0.0.1"
+description = "A Fact Verification Benchmark over Large Structured Data"
 readme = "README.md"
-requires-python=">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "chardet>=5.2.0",
-    "dotenv>=0.9.9",
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.8",
     "nbdev>=2.4.14",
@@ -14,12 +17,14 @@ dependencies = [
     "openai-agents[litellm]>=0.6.9",
     "pandas>=2.3.3",
     "pydantic>=2.12.5",
-    "pydantic-ai>=1.31.0",
+    "pydantic-ai>=1.44.0",
     "python-dotenv>=1.2.1",
-    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "sqlglot>=28.6.0",
     "sqlparse>=0.5.5",
     "toolbox-core>=0.5.7",
     "tqdm>=4.67.1",
 ]
+
+[tool.uv]
+cache-keys = [{ file = "pyproject.toml" }, { file = "settings.ini" }, { file = "setup.py" }]
