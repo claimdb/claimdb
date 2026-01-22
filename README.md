@@ -8,6 +8,27 @@
 [![License: CC BY-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+![ClaimDB Overview](paper-plots/github.png)
+
+## Project Structure
+
+    claimdb/
+    ├── claimdb/                 # Main Python package (exported from notebooks)
+    ├── nbs/                     # Jupyter notebooks (nbdev source)
+    ├── experiments/             # Experiment logs and results
+    │   ├── public/              # Public test results
+    │   └── private/             # Private test results
+    ├── filter-data/             # Filtered/processed data
+    │   ├── embeddings/          # Embedding files
+    │   └── judges/              # Judge outputs
+    ├── original-data/           # Raw source data
+    │   └── BIRD/                # BIRD dataset
+    ├── final-benchmark/         # Final benchmark splits (train/test)
+    ├── _docs/                   # Generated documentation
+    ├── pyproject.toml           # Project config (UV/pip)
+    ├── settings.ini             # nbdev configuration
+    └── uv.lock                  # UV lockfile
+
 ## 🚧 Code Migration in Progress
 
 We are currently migrating the codebase to this repository. In the

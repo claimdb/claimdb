@@ -1,0 +1,17 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - 01_configuration.ipynb
+      - 02_dbops.ipynb
+      - 03_preprocess_bird.ipynb
+      - 04_transformation.ipynb
+      - 05a_filter_judges.ipynb
+      - 05b_filter_similarity.ipynb
+      - 06_benchmark_creation.ipynb
+      - 07_experiments.ipynb
+      - 07a_experiments.ipynb
+      - 07b_expertiments.ipynb
+      - 08_visualize.ipynb
+      - 08a_visualize.ipynb
