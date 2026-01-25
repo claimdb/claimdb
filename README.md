@@ -43,7 +43,7 @@ statistics!
 ## Citation
 
 ``` bibtex
-@misc{theologitis2026claimdbfactverificationbenchmark,
+@misc{theologitis2026claimDB,
       title={ClaimDB: A Fact Verification Benchmark over Large Structured Data}, 
       author={Michael Theologitis and Preetam Prabhu Srikar Dammu and Chirag Shah and Dan Suciu},
       year={2026},
