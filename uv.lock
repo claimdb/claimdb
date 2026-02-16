@@ -558,6 +558,7 @@ dependencies = [
     { name = "seaborn" },
     { name = "sqlglot" },
     { name = "sqlparse" },
+    { name = "tiktoken" },
     { name = "toolbox-core" },
     { name = "tqdm" },
 ]
@@ -578,6 +579,7 @@ requires-dist = [
     { name = "seaborn", specifier = ">=0.13.2" },
     { name = "sqlglot", specifier = ">=28.6.0" },
     { name = "sqlparse", specifier = ">=0.5.5" },
+    { name = "tiktoken", specifier = ">=0.12.0" },
     { name = "toolbox-core", specifier = ">=0.5.7" },
     { name = "tqdm", specifier = ">=4.67.1" },
 ]
