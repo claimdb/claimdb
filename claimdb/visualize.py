@@ -7,7 +7,7 @@ __all__ = ['load_df']
 
 # %% ../nbs/08_visualize.ipynb #601a4389
 import json
-from dbverify.configuration import config
+from .configuration import config
 
 # %% ../nbs/08_visualize.ipynb #f657a9ba
 with open(config.output_data_dir / 'all_claims_judged.jsonl', "r") as f:
