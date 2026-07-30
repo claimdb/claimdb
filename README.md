@@ -5,7 +5,7 @@
 
 📢 **News:** Accepted to **ACL 2026**! 🎉
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202026-red.svg)](http://arxiv.org/abs/2601.14698)
+[![Paper](https://img.shields.io/badge/Paper-ACL%202026-red.svg)](https://aclanthology.org/2026.acl-long.1589/)
 [![Website](https://img.shields.io/badge/Website-ClaimDB-blue.svg)](https://claimdb.github.io/)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-ClaimDB-yellow.svg)](https://huggingface.co/datasets/michaeltheologitis/claimdb)
 [![License: CC BY-SA
