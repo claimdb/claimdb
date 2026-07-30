@@ -45,14 +45,25 @@ statistics!
 ## Citation
 
 ``` bibtex
-@misc{theologitis2026claimDB,
-      title={ClaimDB: A Fact Verification Benchmark over Large Structured Data}, 
-      author={Michael Theologitis and Preetam Prabhu Srikar Dammu and Chirag Shah and Dan Suciu},
-      year={2026},
-      eprint={2601.14698},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.14698}, 
+@inproceedings{theologitis-etal-2026-claimdb,
+    title = "{C}laim{DB}: A Fact Verification Benchmark over Large Structured Data",
+    author = "Theologitis, Michael  and
+      Dammu, Preetam Prabhu Srikar  and
+      Shah, Chirag  and
+      Suciu, Dan",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1589/",
+    doi = "10.18653/v1/2026.acl-long.1589",
+    pages = "34428--34451",
+    ISBN = "979-8-89176-390-6"
 }
 ```
 
